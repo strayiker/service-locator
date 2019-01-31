@@ -8,6 +8,10 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strayiker/service-locator.git"
+  },
   "sideEffects": false,
   "scripts": {
     "prebuild": "rimraf lib",
