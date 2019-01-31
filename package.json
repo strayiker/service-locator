@@ -1,6 +1,6 @@
 {
   "name": "@sadbox/service-locator",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "An implementation of Service Locator pattern",
   "main": "lib/index.js",
   "author": "Kirill Mesnyankin <sadbox.games@gmail.com>",
