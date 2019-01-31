@@ -40,7 +40,7 @@ module.exports = class ServiceLocator {
 
   resolve = name => {
     if (!this.services.has(name)) {
-      throw new Error(`${name} not registered.`);
+      throw new Error(`${name} is not registered.`);
     }
 
     const definition = this.services.get(name);
